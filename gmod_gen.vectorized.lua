@@ -1,6 +1,7 @@
 -- gonzalez, j
 -- ljhashdos.lua
 -- jun 2018
+-- despite my best efforts, luajit would not really vectorize this. very sad.
 
 --[[
 Speed:
